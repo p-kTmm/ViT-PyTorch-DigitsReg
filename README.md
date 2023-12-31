@@ -1,2 +1,2 @@
 # ViT-PyTorch-DigitsReg
-Run on Kaggel
+I train and test a model on the MNIST dataset and I run it on Kaggel
